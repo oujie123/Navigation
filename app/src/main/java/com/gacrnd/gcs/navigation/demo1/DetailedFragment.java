@@ -1,4 +1,4 @@
-package com.gacrnd.gcs.navigation;
+package com.gacrnd.gcs.navigation.demo1;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,6 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+
+import com.gacrnd.gcs.navigation.R;
 
 public class DetailedFragment extends Fragment {
 

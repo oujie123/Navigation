@@ -1,4 +1,4 @@
-package com.gacrnd.gcs.navigation;
+package com.gacrnd.gcs.navigation.demo1;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -13,6 +13,8 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
+
+import com.gacrnd.gcs.navigation.R;
 
 public class HomeFragment extends Fragment {
 
